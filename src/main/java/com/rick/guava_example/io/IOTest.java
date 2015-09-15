@@ -7,7 +7,6 @@ import com.google.common.base.Charsets;
 import com.google.common.collect.ImmutableList;
 import com.google.common.io.FileWriteMode;
 import com.google.common.io.Files;
-import com.google.common.io.Resources;
 
 public class IOTest {
 
